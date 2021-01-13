@@ -1,3 +1,8 @@
 someText4
+<<<<<<< HEAD
 newSomeText
 2
+=======
+extxttt
+HotCat
+>>>>>>> e5c7f5a5533d31c39110b06a5a3830afa97382c0
